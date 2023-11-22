@@ -1,6 +1,8 @@
 # shopping_list
 
-A new Flutter project.
+[![Build status](https://build.appcenter.ms/v0.1/apps/6332c8a4-9052-4017-9481-dd479960f312/branches/main/badge)](https://appcenter.ms)
+
+A new Flutter project. Tautan publikasi aplikasi dapat diakses melalui link [berikut!](https://install.appcenter.ms/orgs/pebepetutor/apps/shopping-list/distribution_groups/public)
 
 ## Getting Started
 
@@ -14,3 +16,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
